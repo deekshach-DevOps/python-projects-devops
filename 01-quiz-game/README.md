@@ -8,4 +8,13 @@ From the repo root:
 
 ```bash
 python3 01-quiz-game/quiz_game.py
+```
+What I practiced
 
+- input() and print()
+
+- if/else conditions
+
+- basic string handling with .lower()
+
+- scoring logic
